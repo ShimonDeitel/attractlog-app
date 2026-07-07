@@ -1,0 +1,29 @@
+{
+  "identifier": "attractlog",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "attractlog_pro",
+      "localizations": [
+        {
+          "description": "Unlimited attractions, photo notes, and map pin export.",
+          "displayName": "Roadside Attraction Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "attractlog_pro",
+      "referenceName": "Roadside Attraction Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
